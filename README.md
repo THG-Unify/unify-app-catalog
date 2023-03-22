@@ -1,2 +1,2 @@
-# template-app-catalog
-Template repository for creating catalogs
+# Unify App Catalog
+A GiantSwarm app catalog for Unify applications.
